@@ -1,0 +1,19 @@
+.container {
+    width: 1440px;
+}
+.sanpham img {
+    width: 300px;
+}
+.sanpham {
+    display: flex;
+}
+.comment {
+    padding-left: 200px;
+}
+.cost {
+    color: red;
+}
+.san a {
+    text-decoration: none;
+    color: black;
+}
